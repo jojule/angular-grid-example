@@ -1,0 +1,19 @@
+{
+  "name": "angularu-grid-examples",
+  "version": "1.0.0-snapshot",
+  "authors": [
+    "Joonas Lehtinen"
+  ],
+  "keywords": [
+    "web-components",
+    "vaadin",
+    "vaadin components"
+  ],
+  "license": "Apache License 2.0",
+  "ignore": [
+    "bower_components"
+  ],
+  "dependencies": {
+    "vaadin-components": "vaadin-components#0.3.0-beta2"
+  }
+}
