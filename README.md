@@ -3,11 +3,11 @@
 
 ## Compiling Step by step
 
-bower install
-tsc *.ts
+- bower install
+- tsc *.ts
 
 ## Running
 
-serve .
-open http://localhost:3000/
+- serve .
+- open http://localhost:3000/
 
